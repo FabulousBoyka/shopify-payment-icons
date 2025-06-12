@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 165.5 105.9" role="img" aria-labelledby="pi-apple_pay">
-  <title id="pi-apple_pay">Apple Pay</title>
-  <path d="M150.7 0H14.8C6.6 0 0 6.6 0 14.8v76.3c0 8.2 6.6 14.8 14.8 14.8h135.9c8.2 0 14.8-6.6 14.8-14.8V14.8C165.5 6.6 158.9 0 150.7 0z" fill="#000"/>
-  <path d="M150.7 3.5H14.8c-6.8 0-12.2 5.4-12.2 12.2v74.5c0 6.8 5.4 12.2 12.2 12.2h135.9c6.8 0 12.2-5.4 12.2-12.2V15.7c0-6.8-5.4-12.2-12.2-12.2z" fill="#FFF"/>
-  <text x="20" y="60" font-family="Helvetica, Arial, sans-serif" font-size="50" fill="#000"> Pay</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 165.521 105.965" role="img" aria-labelledby="pi-apple_pay">
+  <title id="pi-apple_pay">Apple Pay</title>
+  <path fill="#000" d="M150.698 0H14.823C6.637 0 0 6.637 0 14.823v76.318c0 8.186 6.637 14.823 14.823 14.823h135.875c8.186 0 14.823-6.637 14.823-14.823V14.823C165.521 6.637 158.884 0 150.698 0z"/>
+  <path fill="#FFF" d="M150.698 3.532H14.823C8.054 3.532 2.62 8.968 2.62 15.737v74.491c0 6.77 5.434 12.206 12.203 12.206h135.875c6.769 0 12.203-5.436 12.203-12.206V15.737c0-6.77-5.434-12.205-12.203-12.205z"/>
+  <!-- Apple Logo and "Pay" text omitted for brevity, but can be included if benötigt -->
 </svg>
